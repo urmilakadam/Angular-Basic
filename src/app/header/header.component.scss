@@ -1,0 +1,22 @@
+.header-container{
+    background-color: burlywood;
+    width: 100%;
+    height: 80px;
+    background-image: repeating-radial-gradient();
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    .login {
+        font-size: 24px;
+        font-family: cursive;
+        margin-left: 40px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .logout {
+        font-size: 18px;
+        margin-right: 40px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+}

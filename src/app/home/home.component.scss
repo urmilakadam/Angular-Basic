@@ -1,0 +1,28 @@
+.home-container{
+    display: flex;
+    .popular-movie{
+        width: 25%;
+        border-right: 1px solid yellowgreen;
+        height: calc(100vh - 80px);
+        padding: 20px 40px;
+    }
+    .all-movie{
+        width: 75%;
+        height: calc(100vh - 80px);
+        padding: 20px 40px;
+        .top{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .h3{
+                font-weight: bold;
+                border-left: 15px solid rosybrown;
+                padding-left: 10px;
+            }
+            .view-all{
+                color:bisque;
+                cursor: pointer;
+            }
+        }
+    }
+}
