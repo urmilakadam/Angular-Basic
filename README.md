@@ -1,6 +1,6 @@
-# AngularDemo
+# Angular Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.3.
+This repository provides a collection of demo projects and examples showcasing various features and functionalities of Angular, a powerful front-end web application framework.
 
 ## Development server
 
@@ -21,6 +21,44 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+
+## Features
+
+- **Basic Concepts**:
+  - Components
+  - Modules
+  - Services
+  - Dependency Injection
+  - Directives
+
+- **Routing**:
+  - Implementing Angular Router for navigation
+  - Route Guards
+
+- **Forms**:
+  - Reactive Forms
+  - Template-driven Forms
+
+- **HTTP Client**:
+  - Making HTTP requests
+  - Handling responses and errors
+
+- **State Management**:
+  - Basic state management techniques
+  - Introduction to NgRx (if applicable)
+
+- **Testing**:
+  - Unit Testing with Jasmine and Karma
+  - End-to-End Testing with Protractor
+
+## Getting Started
+
+To clone this repository, run:
+
+```bash
+git clone https://github.com/urmilakadam/angular-demo.git
+```
 
 ## Further help
 
